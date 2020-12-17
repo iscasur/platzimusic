@@ -1,5 +1,6 @@
 // Libraries, settings and variables
 @import "lib/variables.scss";
+@import "lib/mixins.scss";
 
 // Base elements
 @import "base/tables.scss";
@@ -8,6 +9,9 @@
 
 // Components
 @import "components/grids.scss";
+
+// Layouts
+@import "layout/layouts.scss";
 
 // Utilities
 @import "components/utilities.scss";
